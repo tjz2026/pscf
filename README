@@ -1,4 +1,14 @@
-
+ PPSCF - Parallel Polymer Self-Consistent Field Theory
+ An parallelization extension of the original PSCF project. Just started!
+ 
+ Features Added for PSCF: 
+ 1. Multiple parallelism (supporting MPI, Openmp, openacc, GPU CUDA)
+ 2. Advanced field iteration schemes(semi-implicit, andersion mixing etc) 
+ 3. Integration OpenArray for parallel data management.
+ 4. anything else that is interesting.
+ 
+ 
+ 
 -----------------------------------------------------------------------
  PSCF - Polymer Self-Consistent Field Theory
  Copyright (2002-2016) Regents of the University of Minnesota
